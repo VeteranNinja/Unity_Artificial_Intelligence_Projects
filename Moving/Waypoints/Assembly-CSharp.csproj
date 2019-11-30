@@ -61,18 +61,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\FollowGoal.cs" />
+    <Compile Include="Assets\WaypointCircuit.cs" />
     <Compile Include="Assets\WaypointFollow.cs" />
+    <Compile Include="Assets\WaypointProgressTracker.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>G:/Digital Portfolio/Udemy/The Beginner's Guide to Artificial Intelligence in Unity/Waypoints/Waypoints/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>G:/Digital Portfolio/Udemy/The Beginner's Guide to Artificial Intelligence in Unity/Moving/Waypoints/Waypoints/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>G:/Digital Portfolio/Udemy/The Beginner's Guide to Artificial Intelligence in Unity/Waypoints/Waypoints/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>G:/Digital Portfolio/Udemy/The Beginner's Guide to Artificial Intelligence in Unity/Moving/Waypoints/Waypoints/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>G:/Digital Portfolio/Udemy/The Beginner's Guide to Artificial Intelligence in Unity/Waypoints/Waypoints/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>G:/Digital Portfolio/Udemy/The Beginner's Guide to Artificial Intelligence in Unity/Moving/Waypoints/Waypoints/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>G:/Digital Portfolio/Udemy/The Beginner's Guide to Artificial Intelligence in Unity/Waypoints/Waypoints/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>G:/Digital Portfolio/Udemy/The Beginner's Guide to Artificial Intelligence in Unity/Moving/Waypoints/Waypoints/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
